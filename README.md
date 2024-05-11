@@ -89,3 +89,13 @@ Features to be implemented:
 
 And that's pretty much it for now!
 Thanks for trying it and let me know how you like it!
+
+Windows 10 系统
+
+中文简体版：https://www.microsoft.com/zh-cn/software-download/windows10
+中文繁体版：https://www.microsoft.com/zh-tw/software-download/windows10
+
+Windows 11 系统
+
+中文简体版：https://www.microsoft.com/zh-cn/software-download/windows11
+中文繁体版：https://www.microsoft.com/zh-tw/software-download/windows11
