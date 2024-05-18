@@ -23,7 +23,7 @@ This script generates a significantly reduced Windows 11 image. However, it's no
 
 Instructions:
 
-1. Download Windows 11 from the Microsoft website (<https://www.microsoft.com/software-download/windows11>)
+1. Download Windows 11 from the Microsoft website (<https://www.microsoft.com/software-download/windows11>) OR (<https://uupdump.net/>)
 2. Mount the downloaded ISO image using Windows Explorer.
 3. Select the drive letter where the image is mounted (only the letter, no colon (:))
 4. Select the SKU that you want the image to be based.
@@ -90,14 +90,4 @@ Features to be implemented:
 And that's pretty much it for now!
 Thanks for trying it and let me know how you like it!
 
-Windows 10 系统
 
-中文简体版：https://www.microsoft.com/zh-cn/software-download/windows10
-
-中文繁体版：https://www.microsoft.com/zh-tw/software-download/windows10
-
-Windows 11 系统
-
-中文简体版：https://www.microsoft.com/zh-cn/software-download/windows11
-
-中文繁体版：https://www.microsoft.com/zh-tw/software-download/windows11
